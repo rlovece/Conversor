@@ -1,8 +1,8 @@
 <h1 align="center"> Conversor de monedas 💱 y temperatura 🌡 </h1>
 
-Este proyecto Java implementa un programa de conversión que te permite convertir entre diferentes monedas y 
-unidades de temperatura. Utiliza una interfaz gráfica simple basada en JOptionPane para proporcionar una 
-experiencia fácil de usar.
+Este proyecto Java implementa un programa de conversión que te permite convertir entre diferentes monedas y unidades de temperatura. Utiliza una interfaz gráfica simple basada en JOptionPane para proporcionar una experiencia fácil de usar.
+
+El desarrollo fue realizado en el marco de un desafío propuesto en el curso de Alura ONE para formación backend con JAVA #challengeoneconversorlatam5
 
 
 <h2> Características </h2>
